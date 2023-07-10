@@ -1,0 +1,38 @@
+.container{ 
+    margin-top: 80px;
+}
+body{ background-color: black;}
+.container{ text-align: center;}
+ 
+ .placeholder{text-align: right;
+font-size: 60px;}
+ 
+ #box{ width: 320px;
+border-radius: 10px;
+box-shadow: inset 5px 5px 3px grey,inset -5px -5px 3px white;
+
+}
+.clc{background: rgb(200, 200,200);
+padding: 10px;
+display: inline-block;
+border-radius: 15px;
+}
+input{ 
+font-size: 30px;
+width: 70px;
+height: 60px;
+margin: 5px;
+border-radius: 10px;
+border: none;
+box-shadow: 5px 5px 3px;
+ background: rgb(200,200,200);
+
+}
+input:hover{
+    box-shadow: inset 5px 5px 3px grey,inset -5px -5px 3px white; 
+}
+
+.i{
+    background-color: orange;
+}
+.i:hover{ box-shadow: inset 5px 5px 3px rgb(218, 138, 18),inset -5px -5px 5px rgb(184,73,9);}
